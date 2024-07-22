@@ -471,3 +471,5 @@
 ### Update 1744200254
 ## documentation - Update user guide
 ### Update 1744200254
+## documentation - Add technical specifications
+### Update 1744200254
