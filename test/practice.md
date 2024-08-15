@@ -597,3 +597,5 @@
 ### Update 1744200256
 ## features - Add group chat
 ### Update 1744200256
+## security - Add encryption
+### Update 1744200256
