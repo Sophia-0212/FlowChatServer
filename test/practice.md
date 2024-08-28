@@ -563,3 +563,5 @@
 ### Update 1744200256
 ## development - Setup development environment
 ### Update 1744200256
+## development - Configure build system
+### Update 1744200256
