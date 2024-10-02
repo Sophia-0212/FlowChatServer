@@ -651,3 +651,5 @@
 ### Update 1744200257
 ## structure - Add project overview
 ### Update 1744200257
+## structure - Add architecture overview
+### Update 1744200257
