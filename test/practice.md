@@ -753,3 +753,5 @@
 ### Update 1744200258
 ## structure - Initialize project structure
 ### Update 1744200258
+## structure - Add project overview
+### Update 1744200258
