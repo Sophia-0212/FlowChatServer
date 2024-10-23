@@ -803,3 +803,5 @@
 ### Update 1744200258
 ## features - Add file sharing
 ### Update 1744200258
+## features - Add group chat
+### Update 1744200258
