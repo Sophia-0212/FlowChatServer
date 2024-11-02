@@ -809,3 +809,5 @@
 ### Update 1744200259
 ## features - Add group chat
 ### Update 1744200259
+## security - Add encryption
+### Update 1744200259
