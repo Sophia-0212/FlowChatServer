@@ -1111,3 +1111,5 @@
 ### Update 1744200262
 ## documentation - Update user guide
 ### Update 1744200262
+## documentation - Add technical specifications
+### Update 1744200262
