@@ -1129,3 +1129,5 @@
 ### Update 1744200262
 ## features - Add file sharing
 ### Update 1744200262
+## features - Add group chat
+### Update 1744200262
