@@ -1,9 +1,6 @@
 FROM golang:1.20 as build
 
-# 先更新软件源列表并安装git
-RUN apt-get update && \
-    apt-get install -y git && \
-    apt-get clean
+RUN apt-get update && apt-get install -y git
 
 ENV GOPROXY https://goproxy.cn,direct
 ENV GO111MODULE on
