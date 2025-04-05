@@ -1,8 +1,9 @@
 FROM golang:1.20 as build
 
+# 安装 git
 RUN apt-get update && apt-get install -y git
 
-ENV GOPROXY https://goproxy.cn,direct
+ENV GOPROXY https://goproxy.cn,https://goproxy.io,https://proxy.golang.org,direct
 ENV GO111MODULE on
 
 
